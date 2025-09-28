@@ -1,0 +1,6 @@
+﻿{
+  "files.associations": { "*.css": "postcss" },
+  "css.validate": false,
+  "tailwindCSS.experimental.configFile": "tailwind.config.ts",
+  "tailwindCSS.emmetCompletions": true
+}
